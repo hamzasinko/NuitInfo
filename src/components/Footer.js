@@ -8,7 +8,7 @@ const Footer = () => {
                 <Text>&copy; {new Date().getFullYear()} Your Company. All rights reserved.</Text>
                 <List styleType="none" display="flex" justifyContent="center" mt={2}>
                     <ListItem mx={2}>
-                        <Link href="/about" color="teal.200">About Us</Link>
+                        <Link href="https://www.linkedin.com/in/hamza-fikri/" color="teal.200">Hamza Fikri</Link>
                     </ListItem>
                     <ListItem mx={2}>
                         <Link href="/contact" color="teal.200">Contact</Link>
